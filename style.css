@@ -54,6 +54,8 @@
   
   /* User Input Section */
   .user-input-container {
+    position: relative;
+    bottom:-100px;
     display: flex;
     padding: 10px;
     border-top: 1px solid #eee;
